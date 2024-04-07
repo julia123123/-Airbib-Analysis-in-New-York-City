@@ -1,1 +1,3 @@
+Download Airbnb Data in New York City in Excel in Tableau, then analyze the data by Tableau into these following categories：Total bookings by neighborhood group and room type, Average price in the neighborhoods- neighborhood group, Average reviews per month by room type and neighborhood group, Average Price by neighborhood group- room type, Total neighborhood by neighborhood group, Average price in the neighbourhoods,Total reviews by year, Total bookings by year and neighborhood group - room type. 
 
+Result Page：https://public.tableau.com/app/profile/julia.yao8758/viz/Airbnb_17065835728990/Dashboard1
